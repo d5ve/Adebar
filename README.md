@@ -1,3 +1,7 @@
+d5ve's fork of https://github.com/IzzySoft/Adebar which overrides the location of bash. OSX has a very old version of bash, 3.2.57, from 2007 which doesn't support some of the scripts used by Adebar. I used MacPorts to install 4.3.46 into /opt/local/bin/bash and will make changes to the scripts and script templates to use that instead.
+
+TODO: See if '#!/usr/bin/env bash' would work instead.
+
 # Adebar
 ***Adebar*** stands for <b>A</b>ndroid <b>De</b>vice <b>B</b>ackup <b>a</b>nd <b>R</b>eport. It is mainly based on [Bash](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29 "Wikipedia: Bash (Unix shell)") and [Adb](http://en.wikipedia.org/wiki/Android_Debug_Bridge "Wikipedia: Android Debug Bridge").
 
