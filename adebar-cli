@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/opt/local/bin/bash
 # Adebar
 # (Android DEvice Backup And Restore)
 # Creating scripts to backup and restore your apps, settings, and more

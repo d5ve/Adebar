@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/opt/local/bin/bash
 # convert ADB Backups to tar
 
 [[ -z "$1" ]] && {
